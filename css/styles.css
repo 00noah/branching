@@ -1,0 +1,6 @@
+.turtle, .snake, .insect {
+  display: none;
+}
+.well {
+  background-color: green;
+}
